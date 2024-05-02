@@ -27,8 +27,10 @@ The PhonePe Pulse Github repository contains a large amount of data related to v
 The result of this project will be a live geo visualization dashboard displaying insights from the PhonePe Pulse Github repository in an interactive manner. Users can access the dashboard from a web browser and explore different visualizations and facts.
 
 ## Dataset
-[PhonePe Pulse Dataset](Data_Link)
+[Dataset](https://github.com/PhonePe/pulse#readme)
 
+## Inspired From 
+  [Phonepe Pulse](https://www.phonepe.com/pulse/explore/transaction/2022/4/)
 ## Learning Outcomes
 - Data extraction and processing
 - Database management
